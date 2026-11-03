@@ -37,3 +37,7 @@ Source: [Poker Hands Dataset — Hugging Face](https://huggingface.co/datasets/t
 The analysis uses a locally stored Parquet file located at `data/raw/29.3 parquet.parquet`.
 
 To reproduce the analysis, download the corresponding dataset file and place it in the specified directory.
+
+### Dataset Setup
+
+Download `29.3 parquet.parquet` from the linked Hugging Face dataset and place it in `data/raw/` within the project directory.
