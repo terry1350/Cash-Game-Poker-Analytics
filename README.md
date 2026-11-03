@@ -33,4 +33,11 @@ Demonstrates data processing, aggregation, exploratory data analysis, and visual
 
 What I improved
 - Clarified that aggression is a custom metric.
- 
+- 
+ ## Dataset
+
+Source: [Poker Hands Dataset — Hugging Face](https://huggingface.co/datasets/takara-ai/poker_hands)
+
+The analysis uses a locally stored Parquet file located at `data/raw/29.3 parquet.parquet`.
+
+To reproduce the analysis, download the corresponding dataset file and place it in the specified directory.
