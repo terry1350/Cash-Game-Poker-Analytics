@@ -30,10 +30,6 @@ Recorded payouts represent gross winnings, not net profit. The aggression metric
 Demonstrates data processing, aggregation, exploratory data analysis, and visualization using Python.
 
 
-
-What I improved
-- Clarified that aggression is a custom metric.
-- 
  ## Dataset
 
 Source: [Poker Hands Dataset — Hugging Face](https://huggingface.co/datasets/takara-ai/poker_hands)
